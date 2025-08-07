@@ -6,7 +6,7 @@ from time import perf_counter
 # Start time for performance measurement
 start_time = perf_counter()
 tahun = 2025
-print('Bismillah. Perkiraan berjalan 4 detik. Mohon tunggu.')
+print('Bismillah. Perkiraan berjalan 4-10 detik. Mohon tunggu.')
 
 # Disable SSL warnings and initialize session
 requests.packages.urllib3.disable_warnings()
