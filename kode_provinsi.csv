@@ -1,35 +1,35 @@
-kodepemda,kodesatker,namapemda,kodeprovinsi,kodekabkota
-01.00,990015,Provinsi Aceh,11,
-22.00,992274,Provinsi Bali,51,
-29.00,993813,Provinsi Bangka Belitung,19,
-28.00,993809,Provinsi Banten,36,
-07.00,990718,Provinsi Bengkulu,17,
-12.00,991507,Provinsi DI Yogyakarta,34,
-09.00,990828,Provinsi DKI Jakarta,31,
-30.00,993820,Provinsi Gorontalo,75,
-05.00,990530,Provinsi Jambi,15,
-10.00,990881,Provinsi Jawa Barat,32,
-11.00,991141,Provinsi Jawa Tengah,33,
-13.00,991560,Provinsi Jawa Timur,35,
-14.00,991947,Provinsi Kalimantan Barat,61,
-16.00,992164,Provinsi Kalimantan Selatan,63,
-15.00,992029,Provinsi Kalimantan Tengah,62,
-17.00,992096,Provinsi Kalimantan Timur,64,
-34.00,999001,Provinsi Kalimantan Utara,65,
-31.00,998840,Provinsi Kepulauan Riau,21,
-08.00,990764,Provinsi Lampung,18,
-25.00,993152,Provinsi Maluku,81,
-27.00,980011,Provinsi Maluku Utara,82,
-23.00,992370,Provinsi Nusa Tenggara Barat,52,
-24.00,992452,Provinsi Nusa Tenggara Timur,53,
-26.00,993216,Provinsi Papua,91,
-32.00,998854,Provinsi Papua Barat,92,
-04.00,990455,Provinsi Riau,14,
-33.00,955383,Provinsi Sulawesi Barat,76,
-20.00,992722,Provinsi Sulawesi Selatan,73,
-19.00,992960,Provinsi Sulawesi Tengah,72,
-21.00,993106,Provinsi Sulawesi Tenggara,74,
-18.00,993021,Provinsi Sulawesi Utara,71,
-03.00,990303,Provinsi Sumatera Barat,13,
-06.00,990608,Provinsi Sumatera Selatan,16,
-02.00,990125,Provinsi Sumatera Utara,12,
+kodepemda,kodesatker,namapemda,kodeprovinsi,kodekabkota,provinsi
+01.00,990015,Provinsi Aceh,11,,Provinsi Aceh
+22.00,992274,Provinsi Bali,51,,Provinsi Bali
+29.00,993813,Provinsi Bangka Belitung,19,,Provinsi Bangka Belitung
+28.00,993809,Provinsi Banten,36,,Provinsi Banten
+07.00,990718,Provinsi Bengkulu,17,,Provinsi Bengkulu
+12.00,991507,Provinsi DI Yogyakarta,34,,Provinsi DI Yogyakarta
+09.00,990828,Provinsi DKI Jakarta,31,,Provinsi DKI Jakarta
+30.00,993820,Provinsi Gorontalo,75,,Provinsi Gorontalo
+05.00,990530,Provinsi Jambi,15,,Provinsi Jambi
+10.00,990881,Provinsi Jawa Barat,32,,Provinsi Jawa Barat
+11.00,991141,Provinsi Jawa Tengah,33,,Provinsi Jawa Tengah
+13.00,991560,Provinsi Jawa Timur,35,,Provinsi Jawa Timur
+14.00,991947,Provinsi Kalimantan Barat,61,,Provinsi Kalimantan Barat
+16.00,992164,Provinsi Kalimantan Selatan,63,,Provinsi Kalimantan Selatan
+15.00,992029,Provinsi Kalimantan Tengah,62,,Provinsi Kalimantan Tengah
+17.00,992096,Provinsi Kalimantan Timur,64,,Provinsi Kalimantan Timur
+34.00,999001,Provinsi Kalimantan Utara,65,,Provinsi Kalimantan Utara
+31.00,998840,Provinsi Kepulauan Riau,21,,Provinsi Kepulauan Riau
+08.00,990764,Provinsi Lampung,18,,Provinsi Lampung
+25.00,993152,Provinsi Maluku,81,,Provinsi Maluku
+27.00,980011,Provinsi Maluku Utara,82,,Provinsi Maluku Utara
+23.00,992370,Provinsi Nusa Tenggara Barat,52,,Provinsi Nusa Tenggara Barat
+24.00,992452,Provinsi Nusa Tenggara Timur,53,,Provinsi Nusa Tenggara Timur
+26.00,993216,Provinsi Papua,91,,Provinsi Papua
+32.00,998854,Provinsi Papua Barat,92,,Provinsi Papua Barat
+04.00,990455,Provinsi Riau,14,,Provinsi Riau
+33.00,955383,Provinsi Sulawesi Barat,76,,Provinsi Sulawesi Barat
+20.00,992722,Provinsi Sulawesi Selatan,73,,Provinsi Sulawesi Selatan
+19.00,992960,Provinsi Sulawesi Tengah,72,,Provinsi Sulawesi Tengah
+21.00,993106,Provinsi Sulawesi Tenggara,74,,Provinsi Sulawesi Tenggara
+18.00,993021,Provinsi Sulawesi Utara,71,,Provinsi Sulawesi Utara
+03.00,990303,Provinsi Sumatera Barat,13,,Provinsi Sumatera Barat
+06.00,990608,Provinsi Sumatera Selatan,16,,Provinsi Sumatera Selatan
+02.00,990125,Provinsi Sumatera Utara,12,,Provinsi Sumatera Utara
